@@ -1,0 +1,5 @@
+	<div id="user_name" style=" ">
+		<div class="user_menu_header" style="margin-left:5%; color:#8996a3;text-align:center; width:70%;">
+			<?php echo $_SESSION['AuthenticatedUser']->Name; ?>
+		</div>
+	</div>

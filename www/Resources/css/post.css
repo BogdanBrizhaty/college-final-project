@@ -1,0 +1,51 @@
+﻿.post {
+	width:64%; 
+	margin-left:18%; 
+	margin-top:15px; 
+	background-color:red;
+	background: #fff;
+	box-shadow: 0 1px 2px 0 rgba(0,0,0,.29)!important;
+	border-radius: 0 3px 3px 3px;
+	box-sizing: border-box;
+}
+.post_layout {
+	padding:10px; 
+	background-color:transparent; 
+	float:top;
+}
+.post_left_col {
+display:inline-block; 
+							overflow:hidden; 
+							width:35%; 
+							/* 300px */
+							height:170px; 
+							background-color:transparent;
+}
+.post_right_col {
+display:inline-block; 
+							overflow:hidden; 
+							width:60%; 
+							padding-left:15px;height:170px;   
+							float:right; 
+							border-left: 2px solid #FF6100;
+							background-color:transparent;
+}
+.post .title_link {
+color: #28adaa;
+											text-decoration: none;
+											font: normal 24px Tahoma,Arial,sans-serif;
+											font-family: Tahoma,Arial,sans-serif;
+											line-height: 1em;
+											text-align: left;
+}
+.post .title_link:visited {
+color: #9b9b9b;
+				text-decoration: none;
+}
+.post_content {
+text-align:justify; 
+								font-family: Tahoma,Helvetica,Arial,sans-serif;
+								font-size: 0.9em;
+								color:#2E2E2E;
+								line-height: 1.75em;
+}

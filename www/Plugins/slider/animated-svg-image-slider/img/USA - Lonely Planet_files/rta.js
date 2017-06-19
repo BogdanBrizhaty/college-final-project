@@ -1,0 +1,1 @@
+crtg_content = ''; (function(){document.cookie = 'crtg_lonely=' + escape(crtg_content) + '; path=/; expires=Fri, 06 May 2016 22:45:18 GMT; domain=lonelyplanet.com';})();
